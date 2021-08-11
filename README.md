@@ -4,3 +4,4 @@ mysql-connector
 PIL
 cv2
 numpy
+opencv-python
